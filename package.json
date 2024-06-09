@@ -1,0 +1,16 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is a demo",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest ",
+    "start": "npx start parcel"
+  },
+  "author": "shubham",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
